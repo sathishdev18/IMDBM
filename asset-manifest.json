@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IMDBM/static/css/main.a6a30c11.css",
+    "main.js": "/IMDBM/static/js/main.81e29804.js",
+    "index.html": "/IMDBM/index.html",
+    "main.a6a30c11.css.map": "/IMDBM/static/css/main.a6a30c11.css.map",
+    "main.81e29804.js.map": "/IMDBM/static/js/main.81e29804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a30c11.css",
+    "static/js/main.81e29804.js"
+  ]
+}
